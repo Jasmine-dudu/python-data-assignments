@@ -1,0 +1,5 @@
+trade-wars-news1.txt
+trade-wars-news2.txt
+trade-wars-news3.txt
+trade-wars-news4.txt
+trade-wars-news5.txt
