@@ -12,14 +12,14 @@ Data fields
 * `Experience` - String. e.g. `经验1-3年/本科`
 * `Company` - String. e.g. `猫头鹰团队`
 * `Industry` - String. e.g. `移动互联网社交网络/A轮/50-150人`
-* `Label 1` - String. e.g. `社交网络/A轮/50-150人 JavaMySQL`
-* `Label 2` - String. e.g. `年终奖金,五险一金,弹性时间,零食水果`
+* `Label 1` - String. e.g. `社交网络/A轮/50-150人 Java`
+* `Label 2` - String. e.g. `五险一金,年终奖金,弹性时间,零食水果`
 
 Data Volume
 ------------
 
 150 rows 9 columns
 
-License
+License,
 -------
 CC 4.0
